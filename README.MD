@@ -68,16 +68,4 @@ From your command line:
 ```sh
 # download the repository
 > git clone https://github.com/alexandrevelozo/grid-and-flexbox
-
-# server
-> yarn install
-> yarn start
-
-# web
-> yarn install
-> yarn start
-
-# mobile
-> yarn install
-> yarn start
 ```
